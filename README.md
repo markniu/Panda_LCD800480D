@@ -1,4 +1,4 @@
-# UART_LCD_800*480_Capacitive for 3D printer
+# Customize the UI yourself, 800*480 Capacitive
 This is Capacitive touch screen,uart serial screen,4.3inch, for marlin based 3D printer control board
 
 ### Connect to PandaPI
@@ -16,7 +16,7 @@ you can also download all the source code and tools here: https://drive.google.c
 [How to customize UI](https://github.com/markniu/PandaPi/wiki/Customize-the-UI-(replace-Image)), those pictures of UI are based on the [FYSETC LCD](https://github.com/FYSETC/FYSTLCD). 
 Instead of resistive touch and low resolution 480*272, This LCD is capacitive touch and high resolution 800*480 screen
 
-### where to buy
+### where to buy $26
 https://www.pandapi3d.com/product-page/serial-800-480-capacitive-touch-screen-for-printer
 
 

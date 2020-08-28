@@ -1,5 +1,5 @@
 # UART_LCD_800*480_Capacitive for 3D printer
-Dgus LCD 800*480,Capacitive touch screen,uart serial,4.3inch, for PandaPi 3D printer control board
+This is Capacitive touch screen,uart serial screen,4.3inch, for marlin based 3D printer control board
 
 ### Connect to PandaPI
 

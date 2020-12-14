@@ -5,7 +5,7 @@ This is Capacitive touch screen,uart serial screen,4.3inch, for marlin based 3D 
 
 ![Opensource](https://raw.githubusercontent.com/markniu/doc_test/master/imges/34552.jpg)
 
-![Opensource](https://raw.githubusercontent.com/markniu/doc_test/master/imges/134413.jpg)
+![Opensource](https://raw.githubusercontent.com/markniu/doc_test/master/imges/134412.jpg)
 
 ### Connect to SKR E3-DIP
 ![Opensource](https://raw.githubusercontent.com/markniu/doc_test/master/imges/151653.jpg)

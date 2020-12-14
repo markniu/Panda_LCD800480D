@@ -23,7 +23,7 @@ format g:/fs:fat32/a:4096/q
 ```
 Note: g is the drive letter of your TF card ，and the card size must be 1-16G.
 
-Step 2：Copy the folder DWIN_SET which contained your newest 32.icl to TF card;
+Step 2：Copy the folder DWIN_SET which contained your newest 32.icl to TF card,LCD will only recognize this folder name;
 
 Step3:  Insert the TF card into the card socket (back side of the screen) ,and then power on the screen. Wait for the blue screen and appear on the first line of the screen “SD Card Process... END !” it’s may take 1-2minutes. Turn off the power and unplug out the TF card, re-power the screen Wait for the boot screen.
 

@@ -16,7 +16,21 @@ you can also download all the source code and tools here: https://drive.google.c
 [How to customize UI](https://github.com/markniu/PandaPi/wiki/Customize-the-UI-(replace-Image)), those pictures of UI are based on the [FYSETC LCD](https://github.com/FYSETC/FYSTLCD). 
 Instead of resistive touch and low resolution 480*272, This LCD is capacitive touch and high resolution 800*480 screen
 
-### where to buy $26
+### Uploade UI Files to screen
+Step 1：Format the TF card and copy files run windows command system as administrator, then enter：
+```c
+format g:/fs:fat32/a:4096/q
+```
+Note: g is the drive letter of your TF card ，and the card size must be 1-16G.
+
+Step 2：Copy the folder DWIN_SET which contained your newest 32.icl to TF card;
+
+Step3:  Insert the TF card into the card socket (back side of the screen) ,and then power on the screen. Wait for the blue screen and appear on the first line of the screen “SD Card Process... END !” it’s may take 1-2minutes. Turn off the power and unplug out the TF card, re-power the screen Wait for the boot screen.
+
+<img width="450"  src="https://raw.githubusercontent.com/markniu/doc_test/master/imges/update_lcd.jpg"/>
+
+
+### where to buy  
 https://www.pandapi3d.com/product-page/serial-800-480-capacitive-touch-screen-for-printer
 
 

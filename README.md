@@ -3,12 +3,12 @@ This is Capacitive touch screen,uart serial screen,4.3inch, for marlin based 3D 
 
 ### Connect to PandaPI
 
-![Opensource](https://raw.githubusercontent.com/markniu/doc_test/master/imges/34552.jpg)
+![Opensource](https://gitee.com/luojin/bob_robot/raw/master/imges/34552.jpg)
 
-![Opensource](https://raw.githubusercontent.com/markniu/doc_test/master/imges/134412.jpg)
+![Opensource](https://gitee.com/luojin/bob_robot/raw/master/imges/134412.jpg)
 
 ### Connect to SKR E3-DIP
-![Opensource](https://raw.githubusercontent.com/markniu/doc_test/master/imges/151653.jpg)
+![Opensource](https://gitee.com/luojin/bob_robot/raw/master/imges/151653.jpg)
 
 you can also download all the source code and tools here: https://drive.google.com/drive/folders/1toJU_dtaq2irLVg9aK6b8gs5-JVmY1cc?usp=sharing
 
@@ -27,7 +27,7 @@ Step 2：Copy the folder DWIN_SET which contained your newest 32.icl to TF card,
 
 Step3:  Insert the TF card into the card socket (back side of the screen) ,and then power on the screen. Wait for the blue screen and appear on the first line of the screen “SD Card Process... END !” it’s may take 1-2minutes. Turn off the power and unplug out the TF card, re-power the screen Wait for the boot screen.
 
-<img width="450"  src="https://raw.githubusercontent.com/markniu/doc_test/master/imges/update_lcd.jpg"/>
+<img width="450"  src="https://gitee.com/luojin/bob_robot/raw/master/imges/update_lcd.jpg"/>
 
 
 ### where to buy  

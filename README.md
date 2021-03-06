@@ -4,7 +4,7 @@ This is Capacitive touch screen,uart serial screen,4.3inch, for marlin based 3D 
 [Download](https://drive.google.com/drive/folders/1toJU_dtaq2irLVg9aK6b8gs5-JVmY1cc?usp=sharing)
 
 ### Support OctoPrint
-you can control the octo printing from the lcd, or control the lcd printing from octopi.this function only works with PandaPi print mode.
+you can control the octo printing from the lcd, or control the lcd printing from octopi web page.this function only works with PandaPi print mode.
 
 ### Connect to PandaPI
 

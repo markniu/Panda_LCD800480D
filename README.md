@@ -9,12 +9,14 @@ you can control the octo printing from the lcd, or control the lcd printing from
 
 ### Connect to PandaPI
 
-![Opensource](https://gitee.com/luojin/bob_robot/raw/master/imges/34552.jpg)
+![image](https://gitee.com/markyue/pandapi_wiki/raw/master/imges/34552.jpg)
 
-![Opensource](https://gitee.com/luojin/bob_robot/raw/master/imges/134412.jpg)
+![image](https://gitee.com/markyue/pandapi_wiki/raw/master/imges/134412.jpg)
+
+![image](https://gitee.com/markyue/pandapi_wiki/raw/master/imges/V28/13091002.jpg)
 
 ### Connect to SKR E3-DIP
-![Opensource](https://gitee.com/luojin/bob_robot/raw/master/imges/151653.jpg)
+![image](https://gitee.com/markyue/pandapi_wiki/raw/master/imges/151653.jpg)
 
 you can also download all the source code and tools here: https://drive.google.com/drive/folders/1toJU_dtaq2irLVg9aK6b8gs5-JVmY1cc?usp=sharing
 
@@ -33,7 +35,7 @@ Step 2：Copy the folder DWIN_SET which contained your newest 32.icl to TF card,
 
 Step3:  Insert the TF card into the card socket (back side of the screen) ,and then power on the screen. Wait for the blue screen and appear on the first line of the screen “SD Card Process... END !” it’s may take 1-2minutes. Turn off the power and unplug out the TF card, re-power the screen Wait for the boot screen.
 
-<img width="450"  src="https://gitee.com/luojin/bob_robot/raw/master/imges/update_lcd.jpg"/>
+<img width="450"  src="https://gitee.com/markyue/pandapi_wiki/raw/master/imges/update_lcd.jpg"/>
 
 
 ### where to buy  

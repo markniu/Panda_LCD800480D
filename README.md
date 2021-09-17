@@ -38,7 +38,7 @@ Step3:  Insert the TF card into the card socket (back side of the screen) ,and t
 <img width="450"  src="https://gitee.com/markyue/pandapi_wiki/raw/master/imges/update_lcd.jpg"/>
 
 
-### where to buy  
-https://www.pandapi3d.com/product-page/serial-800-480-capacitive-touch-screen-for-printer
+### [where to buy  ](https://www.pandapi3d.com/product-page/serial-800-480-capacitive-touch-screen-for-printer)
 
 
+### [Facebook Support](https://www.facebook.com/groups/380795976169477/)
